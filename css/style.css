@@ -105,6 +105,7 @@ body {
 .hero-section .cta {
   display: inline-block;
   margin-top: 2rem;
+  margin-right: 1rem;
   padding: 0.8rem 1rem;
   border-radius: 3px;
   background-color: var(--secondaryColor);
